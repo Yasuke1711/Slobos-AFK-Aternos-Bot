@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kevin171008.aternos.me",
+    "ip": "Kevin171008.aternos.me:26034",
     "port": 26034,
     "version": "",
     "try-creative": false
